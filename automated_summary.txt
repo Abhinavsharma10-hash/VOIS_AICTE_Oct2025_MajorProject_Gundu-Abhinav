@@ -1,0 +1,18 @@
+Report generated: 2025-10-19 13:49:09
+Total titles analyzed: 7,789
+Movies: 0 | TV Shows: 0
+Top genre overall: Movie (5379 titles)
+Top country overall: United States (3298 titles)
+
+Key Observations:
+- Movies vs TV Shows: see type_counts_bar.png and type_counts_pie.png for distribution.
+- Content growth per year: see content_by_year_line.png and content_by_year_area.png.
+- Genres: top_genres_bar.png and genre_trends_top5.png show most frequent genres and their trends.
+- Countries: top_countries_bar.png and countries_treemap.png show leading country contributors.
+- Heatmap: genre_year_heatmap.png shows how genres evolved year-by-year.
+
+Strategic Recommendations:
+1) Invest in high-growth genres identified in the last 3-5 years (refer to Top 5 Genre Trends).
+2) Grow regional originals in underrepresented countries that show rising trends.
+3) Balance investment across Movies and TV Shows based on engagement metrics (TV Shows for retention).
+4) Consider limited-series and documentary investments where growth is observed.
